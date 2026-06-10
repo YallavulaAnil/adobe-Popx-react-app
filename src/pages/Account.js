@@ -26,9 +26,12 @@ function Account() {
                 </div>
 
                 <p className="description">
-                    Lorem Ipsum Dolor Sit Amet,
-                    Consetetur Sadipscing Elitr,
-                    Sed Diam Nonumy Eirmod Tempor.
+                   I am a passionate Frontend Developer with strong skills in building responsive,
+                   user-friendly, and visually appealing web applications. I specialize in
+                    HTML, CSS, JavaScript, and React, and I enjoy turning design ideas into clean,
+                     efficient, and interactive interfaces. I focus on creating smooth user experiences
+                     with attention to detail, performance, and accessibility.
+
                 </p>
             </div>
         </div>
