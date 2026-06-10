@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/adobe-Popx-react-app/static/css/main.94cb8cb0.css",
-    "main.js": "/adobe-Popx-react-app/static/js/main.a31fc396.js",
+    "main.js": "/adobe-Popx-react-app/static/js/main.f71beafa.js",
     "index.html": "/adobe-Popx-react-app/index.html",
     "main.94cb8cb0.css.map": "/adobe-Popx-react-app/static/css/main.94cb8cb0.css.map",
-    "main.a31fc396.js.map": "/adobe-Popx-react-app/static/js/main.a31fc396.js.map"
+    "main.f71beafa.js.map": "/adobe-Popx-react-app/static/js/main.f71beafa.js.map"
   },
   "entrypoints": [
     "static/css/main.94cb8cb0.css",
-    "static/js/main.a31fc396.js"
+    "static/js/main.f71beafa.js"
   ]
 }
